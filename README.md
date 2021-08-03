@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-# MatheusGd
+# Matheus Gustavo Dickel
 
  <div>
   <a href="https://github.com/MatheussGd">
