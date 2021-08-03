@@ -1,4 +1,11 @@
 # Matheus Gustavo Dickel
+
+<div>
+    <p>📌 Teutonia, Rio Grande do Sul</p>
+    <p>💻 <strong>Engenharia da Computação</strong> <a href="https://www.univates.br/">Univates</a></p>
+</div>
+ 
+
  <div>
   <a href="https://github.com/MatheussGd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheussGd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
