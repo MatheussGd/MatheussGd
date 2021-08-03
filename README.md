@@ -2,7 +2,7 @@
 
 <div>
     <p>📌 Teutonia, Rio Grande do Sul</p>
-    <p>💻 <strong>Engenharia da Computação</strong> <a href="https://www.univates.br/">Univates</a></p>
+    <p>💻 <strong>Engenharia da Computação</strong> - <a href="https://www.univates.br/">Univates</a></p>
 </div>
  
 
