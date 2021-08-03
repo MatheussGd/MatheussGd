@@ -1,16 +1,5 @@
-### Hi there 👋
-
-<!--
-**MatheussGd/MatheussGd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
--->
-
-# Matheus Gustavo Dickel
+ Matheus Gustavo Dickel
+# 
 
  <div>
   <a href="https://github.com/MatheussGd">
